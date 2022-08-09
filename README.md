@@ -1,4 +1,4 @@
-## config-modest-menu
+# Config Modest Menu
 My config for [Kiddion's Modest External Menu](https://www.unknowncheats.me/forum/grand-theft-auto-v/497052-kiddions-modest-external-menu-thread-3-a.html).
 
 ## Installation
